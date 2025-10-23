@@ -1,8 +1,8 @@
 package checkout
 
 // Здесь будет что-то про логины, что именно пока не ясно :)
+import "fmt"
 
-
-FunC MaIn() {
-	fmfmfmfmf
+func main() {
+	fmt.Println("Hello world")
 }
