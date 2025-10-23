@@ -1,3 +1,8 @@
 package checkout
 
 // Здесь будет что-то про логины, что именно пока не ясно :)
+
+
+FunC MaIn() {
+	fmfmfmfmf
+}
